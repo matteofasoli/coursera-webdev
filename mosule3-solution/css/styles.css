@@ -1,0 +1,68 @@
+/* general style*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+h1 {
+  font-size: 20px;
+  text-shadow: 2px 2px 4px #ffffff;
+}
+
+p {
+  color: black;
+}
+
+/*h3 {
+  position: absolute;
+  top: 0;
+  left: 123px;
+  right: 123.15px;
+  font-size: 18px;
+  color: #000;
+  margin-top: 0px;
+}*/
+
+a:hover, a:focus {
+  text-shadow: 2px 2px 2px #fff;
+}
+
+.menu-title {
+  font-size: 15px;
+  color: #000;
+}
+
+/*.jumbotron {
+  height: 700px;
+  position: relative;
+}*/
+
+/* set navbar style*/
+#header-nav {
+  border-radius: 0;
+  background-color: #FF8C00;
+  border: 0;
+}
+
+/* useful style for different situation*/
+
+.very-tall {
+  height: 1000px;
+}
+
+/*.margin {
+  margin-left: 1px;
+  margin-right: 1px;
+}*/
+
+
