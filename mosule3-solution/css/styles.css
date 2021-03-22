@@ -60,6 +60,10 @@ a:hover, a:focus {
   height: 1000px;
 }
 
+.row {
+  width: 100%;
+}
+
 /*.margin {
   margin-left: 1px;
   margin-right: 1px;
