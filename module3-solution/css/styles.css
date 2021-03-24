@@ -23,7 +23,7 @@ p {
   color: black;
 }
 
-/*h3 {
+h3 {
   position: absolute;
   top: 0;
   left: 123px;
@@ -31,7 +31,7 @@ p {
   font-size: 18px;
   color: #000;
   margin-top: 0px;
-}*/
+}
 
 a:hover, a:focus {
   text-shadow: 2px 2px 2px #fff;
@@ -42,10 +42,10 @@ a:hover, a:focus {
   color: #000;
 }
 
-/*.jumbotron {
+.jumbotron {
   height: 700px;
   position: relative;
-}*/
+}
 
 /* set navbar style*/
 #header-nav {
@@ -64,9 +64,9 @@ a:hover, a:focus {
   width: 100%;
 }
 
-/*.margin {
+.margin {
   margin-left: 1px;
   margin-right: 1px;
-}*/
+}
 
 
