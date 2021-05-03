@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+	color: white;
+}
+
+h2{
+	font-size: 20px;
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+.style{
+	font-style: oblique;
+	font-weight: bold;
+}
+
+#margin  {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#spaziatura{
+	height: 80px;
+}
+
+.title {
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-style: oblique;
+}
+
+#intestazione {
+    position: fixed;
+    height: 64px;
+    background-color: black;
+    left: 0;
+    border-radius: 0px;
+    right: 0;
+    box-shadow: 0 2px 4px white;
+}
+
+.row {
+	width: 100%;
+	background-color: black;
+	height: 64px;
+}
+
+.row2 {
+	width: 100%;
+	height: auto;
+}
+
